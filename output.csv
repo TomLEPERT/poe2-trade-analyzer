@@ -1,0 +1,46 @@
+id,name,category,primaryValue,volumePrimaryValue,maxVolumeCurrency,maxVolumeRate,totalChange,sparkline
+alch,Orb of Alchemy,Currency,0.003276,113.8,divine,305.3,-3.3,-9.46;-3.46;-2.2;-10.44;-9.76;-8.83;-3.3
+exalted,Exalted Orb,Currency,0.002672,26829,divine,374.3,-11.1,-7.05;-12.95;-14.52;-13.23;-10.97;-9.88;-11.1
+ancient-infuser,Ancient Infuser,Incursion,0.1673,20.07,exalted,0.01597,118.4,3.91;12.17;31.97;50.89;61.95;96.69;118.4
+chaos,Chaos Orb,Currency,0.01846,29364,divine,54.18,16.96,-4.6;-8.8;-4.11;1.98;5.78;9.88;16.96
+divine,Divine Orb,Currency,1,29364,chaos,0.01846,-14.5,5.02;9.66;4.55;-1.9;-5.42;-8.99;-14.5
+annul,Orb of Annulment,Currency,0.07285,6466,divine,13.73,-31.63,-10.99;-20.54;-24.98;-38.03;-38.03;-35.08;-31.63
+architects-orb,Architect's Orb,Incursion,0.2979,925.8,divine,3.36,50.65,5.14;46.12;53.0;37.04;29.67;76.92;50.65
+artificers,Artificer's Orb,Currency,0.003363,39.17,divine,297.3,-37.41,-1.89;-1.28;29.85;7.72;-10.0;-9.13;-37.41
+artificers-shard,Artificer's Shard,Currency,0.002113,0.03028,exalted,1.26,111.3,326.2;692.9;352.3;250.7;197.1;79.1;111.3
+aug,Orb of Augmentation,Currency,5.686e-05,0.9672,exalted,46.99,-10.06,26.98;211.7;82.95;83.26;22.4;2.34;-10.06
+bauble,Glassblower's Bauble,Currency,0.004527,22.84,exalted,0.5902,86.91,49.55;66.53;86.95;124.4;112.5;102.8;86.91
+chance,Orb of Chance,Currency,0.005993,45.0,divine,166.9,-26.83,-6.41;-16.51;-7.96;-13.26;-24.67;-28.08;-26.83
+core-destabiliser,Core Destabiliser,Incursion,0.02632,48.68,exalted,0.1015,68.61,3.02;21.09;33.79;83.48;63.1;48.48;68.61
+crystallised-corruption,Crystallised Corruption,Incursion,0.4373,491.3,divine,2.29,301.0,124.6;77.75;76.08;101.9;117.3;241.3;301.0
+etcher,Arcanist's Etcher,Currency,0.01339,176.0,divine,74.68,22.02,39.66;38.71;43.03;43.21;45.85;51.42;22.02
+fracturing-orb,Fracturing Orb,Currency,16.89,36942,divine,0.05921,74.0,4.42;22.86;43.44;83.85;140.4;177.9;74.0
+greater-regal-orb,Greater Regal Orb,Currency,0.003506,17.91,exalted,0.762,20.4,5.35;-4.07;9.3;30.56;19.6;11.92;20.4
+lesser-jewellers-orb,Lesser Jeweller's Orb,Currency,3.686e-05,0.03251,exalted,72.48,86.57,239.5;226.6;235.2;339.6;162.7;333.6;86.57
+perfect-chaos-orb,Perfect Chaos Orb,Currency,0.3342,3085,divine,2.99,-13.85,-1.98;-4.95;-15.18;-32.94;-22.46;-16.07;-13.85
+perfect-exalted-orb,Perfect Exalted Orb,Currency,0.1434,4306,divine,6.97,-32.31,-19.34;-34.7;-44.43;-53.45;-44.66;-39.99;-32.31
+perfect-jewellers-orb,Perfect Jeweller's Orb,Currency,0.153,882.0,divine,6.53,90.98,39.92;45.35;37.99;85.12;98.74;115.9;90.98
+perfect-regal-orb,Perfect Regal Orb,Currency,0.0142,92.33,divine,70.41,46.75,7.74;1.62;24.29;32.55;34.12;13.95;46.75
+regal,Regal Orb,Currency,0.0001143,3.84,exalted,23.37,-48.93,10.77;10.7;31.59;43.08;-20.67;-38.15;-48.93
+scrap,Armourer's Scrap,Currency,0.01259,840.8,divine,79.45,98.06,32.65;29.92;65.89;94.97;110.0;92.44;98.06
+vaal-cultivation-orb,Vaal Cultivation Orb,Incursion,4.42,15301,divine,0.2264,451.5,21.4;100.4;182.6;206.8;380.3;564.5;451.5
+vaal-infuser,Vaal Infuser,Incursion,0.1392,543.2,divine,7.19,12.28,7.51;-8.74;1.75;5.19;4.43;9.84;12.28
+vaal-siphoner,Vaal Siphoner,Incursion,0.006029,0.5246,exalted,0.4431,328.2,-18.15;-15.63;-26.47;-4.91;51.09;237.4;328.2
+hinekoras-lock,Hinekora's Lock,Currency,800.3,154316,divine,0.00125,103.0,8.93;15.44;15.97;6.76;30.91;71.54;103.0
+chance-shard,Chance Shard,Currency,0.001302,0.09529,exalted,2.05,-0.3,-21.35;-10.1;-11.46;-10.34;-18.74;-12.32;-0.3
+gcp,Gemcutter's Prism,Currency,0.01026,172.2,exalted,0.2603,37.59,26.64;31.96;46.06;56.22;69.12;46.65;37.59
+greater-chaos-orb,Greater Chaos Orb,Currency,0.09148,3559,divine,10.93,54.79,-1.68;15.21;23.44;15.45;16.8;26.93;54.79
+greater-exalted-orb,Greater Exalted Orb,Currency,0.006789,173.8,divine,147.3,-13.94,-10.28;-15.9;-16.64;-16.91;-13.33;-15.34;-13.94
+greater-jewellers-orb,Greater Jeweller's Orb,Currency,0.001117,3.2,exalted,2.39,14.8,11.34;36.33;42.27;65.78;147.5;20.97;14.8
+greater-orb-of-augmentation,Greater Orb of Augmentation,Currency,6.43e-05,1.66,exalted,41.55,-20.31,-22.71;-20.44;69.14;93.96;31.73;-3.7;-20.31
+greater-orb-of-transmutation,Greater Orb of Transmutation,Currency,9.908e-06,0.1345,exalted,269.7,-39.65,8.9;10.59;3.3;-13.22;-33.0;-59.48;-39.65
+mirror,Mirror of Kalandra,Currency,4707,480098,divine,0.0002125,69.8,19.33;28.79;20.44;19.04;35.16;53.55;69.8
+orb-of-extraction,Orb of Extraction,Incursion,0.1072,8.29,exalted,0.02493,267.9,5.88;11.69;35.74;64.92;95.2;240.5;267.9
+perfect-orb-of-augmentation,Perfect Orb of Augmentation,Currency,0.08473,3944,divine,11.8,170.5,5.4;19.23;58.59;62.68;98.66;152.2;170.5
+perfect-orb-of-transmutation,Perfect Orb of Transmutation,Currency,0.002513,29.33,divine,397.9,-6.89,-0.1;58.58;18.93;27.2;14.37;10.43;-6.89
+regal-shard,Regal Shard,Currency,0.0004156,0.003117,exalted,6.43,41.28,4.69;84.28;404.6;191.1;132.8;808.3;41.28
+transmutation-shard,Transmutation Shard,Currency,0.002672,0.005789,exalted,1,200.0,2.14;68.43;360.0;734.2;380.0;200.0;200.0
+transmute,Orb of Transmutation,Currency,5.626e-05,0.6221,exalted,47.49,71.77,78.33;140.8;116.6;112.8;62.92;144.0;71.77
+vaal,Vaal Orb,Currency,0.00296,127.0,exalted,0.9025,150.1,-4.6;-0.33;59.08;114.8;110.3;139.5;150.1
+whetstone,Blacksmith's Whetstone,Currency,0.0009812,15.04,exalted,2.72,204.1,32.6;27.48;62.25;76.48;95.29;127.2;204.1
+wisdom,Scroll of Wisdom,Currency,1.948e-05,1.19,exalted,137.1,36.78,3.87;17.07;19.56;36.6;37.66;30.81;36.78
