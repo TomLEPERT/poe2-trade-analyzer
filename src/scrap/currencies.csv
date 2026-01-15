@@ -1,0 +1,410 @@
+details_id,name,type,category,primary,secondary
+mirror-of-kalandra,Mirror of Kalandra,Currency,Currency,divine,chaos
+hinekoras-lock,Hinekora's Lock,Currency,Currency,divine,chaos
+fracturing-orb,Fracturing Orb,Currency,Currency,divine,chaos
+vaal-cultivation-orb,Vaal Cultivation Orb,Currency,Incursion,divine,chaos
+divine-orb,Divine Orb,Currency,Currency,divine,chaos
+perfect-chaos-orb,Perfect Chaos Orb,Currency,Currency,divine,chaos
+crystallised-corruption,Crystallised Corruption,Currency,Incursion,divine,chaos
+architects-orb,Architect's Orb,Currency,Incursion,divine,chaos
+orb-of-extraction,Orb of Extraction,Currency,Incursion,divine,chaos
+vaal-infuser,Vaal Infuser,Currency,Incursion,divine,chaos
+ancient-infuser,Ancient Infuser,Currency,Incursion,divine,chaos
+perfect-jewellers-orb,Perfect Jeweller's Orb,Currency,Currency,divine,chaos
+perfect-exalted-orb,Perfect Exalted Orb,Currency,Currency,divine,chaos
+greater-chaos-orb,Greater Chaos Orb,Currency,Currency,divine,chaos
+perfect-orb-of-augmentation,Perfect Orb of Augmentation,Currency,Currency,divine,chaos
+orb-of-annulment,Orb of Annulment,Currency,Currency,divine,chaos
+core-destabiliser,Core Destabiliser,Currency,Incursion,divine,chaos
+chaos-orb,Chaos Orb,Currency,Currency,divine,chaos
+perfect-regal-orb,Perfect Regal Orb,Currency,Currency,divine,chaos
+arcanists-etcher,Arcanist's Etcher,Currency,Currency,divine,chaos
+armourers-scrap,Armourer's Scrap,Currency,Currency,divine,chaos
+gemcutters-prism,Gemcutter's Prism,Currency,Currency,divine,chaos
+orb-of-chance,Orb of Chance,Currency,Currency,divine,chaos
+greater-exalted-orb,Greater Exalted Orb,Currency,Currency,divine,chaos
+transmutation-shard,Transmutation Shard,Currency,Currency,divine,chaos
+greater-regal-orb,Greater Regal Orb,Currency,Currency,divine,chaos
+glassblowers-bauble,Glassblower's Bauble,Currency,Currency,divine,chaos
+orb-of-alchemy,Orb of Alchemy,Currency,Currency,divine,chaos
+vaal-orb,Vaal Orb,Currency,Currency,divine,chaos
+artificers-orb,Artificer's Orb,Currency,Currency,divine,chaos
+perfect-orb-of-transmutation,Perfect Orb of Transmutation,Currency,Currency,divine,chaos
+exalted-orb,Exalted Orb,Currency,Currency,divine,chaos
+artificers-shard,Artificer's Shard,Currency,Currency,divine,chaos
+vaal-siphoner,Vaal Siphoner,Currency,Incursion,divine,chaos
+chance-shard,Chance Shard,Currency,Currency,divine,chaos
+greater-jewellers-orb,Greater Jeweller's Orb,Currency,Currency,divine,chaos
+blacksmiths-whetstone,Blacksmith's Whetstone,Currency,Currency,divine,chaos
+regal-shard,Regal Shard,Currency,Currency,divine,chaos
+regal-orb,Regal Orb,Currency,Currency,divine,chaos
+orb-of-transmutation,Orb of Transmutation,Currency,Currency,divine,chaos
+greater-orb-of-augmentation,Greater Orb of Augmentation,Currency,Currency,divine,chaos
+orb-of-augmentation,Orb of Augmentation,Currency,Currency,divine,chaos
+lesser-jewellers-orb,Lesser Jeweller's Orb,Currency,Currency,divine,chaos
+scroll-of-wisdom,Scroll of Wisdom,Currency,Currency,divine,chaos
+greater-orb-of-transmutation,Greater Orb of Transmutation,Currency,Currency,divine,chaos
+azmeri-reliquary-key,Azmeri Reliquary Key,Fragments,Fragments,divine,chaos
+the-trialmasters-reliquary-key,The Trialmaster's Reliquary Key,Fragments,Fragments,divine,chaos
+zarokhs-reliquary-key:-against-the-darkness,Zarokh's Reliquary Key: Against the Darkness,Fragments,Fragments,divine,chaos
+tangmazus-reliquary-key,Tangmazu's Reliquary Key,Fragments,Fragments,divine,chaos
+olroths-reliquary-key,Olroth's Reliquary Key,Fragments,Fragments,divine,chaos
+the-arbiters-reliquary-key,The Arbiter's Reliquary Key,Fragments,Fragments,divine,chaos
+primary-calamity-fragment,Primary Calamity Fragment,Fragments,Fragments,divine,chaos
+secondary-calamity-fragment,Secondary Calamity Fragment,Fragments,Fragments,divine,chaos
+xeshts-reliquary-key,Xesht's Reliquary Key,Fragments,Fragments,divine,chaos
+tertiary-calamity-fragment,Tertiary Calamity Fragment,Fragments,Fragments,divine,chaos
+victorious-fate,Victorious Fate,Fragments,Fragments,divine,chaos
+deadly-fate,Deadly Fate,Fragments,Fragments,divine,chaos
+cowardly-fate,Cowardly Fate,Fragments,Fragments,divine,chaos
+ancient-crisis-fragment,Ancient Crisis Fragment,Fragments,Fragments,divine,chaos
+weathered-crisis-fragment,Weathered Crisis Fragment,Fragments,Fragments,divine,chaos
+faded-crisis-fragment,Faded Crisis Fragment,Fragments,Fragments,divine,chaos
+ritualistic-reliquary-key,Ritualistic Reliquary Key,Fragments,Fragments,divine,chaos
+runic-splinter,Runic Splinter,Fragments,Fragments,divine,chaos
+simulacrum-splinter,Simulacrum Splinter,Fragments,Delirium,divine,chaos
+twilight-reliquary-key,Twilight Reliquary Key,Fragments,Fragments,divine,chaos
+tecrods-gaze,Tecrod's Gaze,Abyss,Abyss,divine,chaos
+ancient-collarbone,Ancient Collarbone,Abyss,Abyss,divine,chaos
+ancient-jawbone,Ancient Jawbone,Abyss,Abyss,divine,chaos
+ancient-rib,Ancient Rib,Abyss,Abyss,divine,chaos
+amanamus-gaze,Amanamu's Gaze,Abyss,Abyss,divine,chaos
+kurgals-gaze,Kurgal's Gaze,Abyss,Abyss,divine,chaos
+preserved-cranium,Preserved Cranium,Abyss,Abyss,divine,chaos
+preserved-collarbone,Preserved Collarbone,Abyss,Abyss,divine,chaos
+ulamans-gaze,Ulaman's Gaze,Abyss,Abyss,divine,chaos
+gnawed-jawbone,Gnawed Jawbone,Abyss,Abyss,divine,chaos
+gnawed-collarbone,Gnawed Collarbone,Abyss,Abyss,divine,chaos
+preserved-jawbone,Preserved Jawbone,Abyss,Abyss,divine,chaos
+preserved-rib,Preserved Rib,Abyss,Abyss,divine,chaos
+gnawed-rib,Gnawed Rib,Abyss,Abyss,divine,chaos
+uncut-spirit-gem-level-20,Uncut Spirit Gem (Level 20),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-20,Uncut Skill Gem (Level 20),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-8,Uncut Spirit Gem (Level 8),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-9,Uncut Spirit Gem (Level 9),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-19,Uncut Spirit Gem (Level 19),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-14,Uncut Spirit Gem (Level 14),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-15,Uncut Spirit Gem (Level 15),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-16,Uncut Spirit Gem (Level 16),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-4,Uncut Spirit Gem (Level 4),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-1,Uncut Skill Gem (Level 1),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-7,Uncut Spirit Gem (Level 7),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-10,Uncut Spirit Gem (Level 10),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-5,Uncut Spirit Gem (Level 5),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-13,Uncut Spirit Gem (Level 13),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-7,Uncut Skill Gem (Level 7),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-17,Uncut Spirit Gem (Level 17),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-6,Uncut Spirit Gem (Level 6),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-18,Uncut Spirit Gem (Level 18),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-11,Uncut Spirit Gem (Level 11),UncutGems,UncutGems,divine,chaos
+uncut-spirit-gem-level-12,Uncut Spirit Gem (Level 12),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-8,Uncut Skill Gem (Level 8),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-3,Uncut Skill Gem (Level 3),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-11,Uncut Skill Gem (Level 11),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-5,Uncut Skill Gem (Level 5),UncutGems,UncutGems,divine,chaos
+uncut-support-gem-level-3,Uncut Support Gem (Level 3),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-15,Uncut Skill Gem (Level 15),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-9,Uncut Skill Gem (Level 9),UncutGems,UncutGems,divine,chaos
+uncut-support-gem-level-4,Uncut Support Gem (Level 4),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-4,Uncut Skill Gem (Level 4),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-2,Uncut Skill Gem (Level 2),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-12,Uncut Skill Gem (Level 12),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-10,Uncut Skill Gem (Level 10),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-19,Uncut Skill Gem (Level 19),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-16,Uncut Skill Gem (Level 16),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-6,Uncut Skill Gem (Level 6),UncutGems,UncutGems,divine,chaos
+uncut-support-gem-level-5,Uncut Support Gem (Level 5),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-13,Uncut Skill Gem (Level 13),UncutGems,UncutGems,divine,chaos
+uncut-support-gem-level-1,Uncut Support Gem (Level 1),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-14,Uncut Skill Gem (Level 14),UncutGems,UncutGems,divine,chaos
+uncut-support-gem-level-2,Uncut Support Gem (Level 2),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-17,Uncut Skill Gem (Level 17),UncutGems,UncutGems,divine,chaos
+uncut-skill-gem-level-18,Uncut Skill Gem (Level 18),UncutGems,UncutGems,divine,chaos
+uhtreds-augury,Uhtred's Augury,LineageSupportGems,LineageSupportGems,divine,chaos
+uhtreds-omen,Uhtred's Omen,LineageSupportGems,LineageSupportGems,divine,chaos
+uul-netols-embrace,Uul-Netol's Embrace,LineageSupportGems,LineageSupportGems,divine,chaos
+rakiatas-flow,Rakiata's Flow,LineageSupportGems,LineageSupportGems,divine,chaos
+garukhans-resolve,Garukhan's Resolve,LineageSupportGems,LineageSupportGems,divine,chaos
+tuls-stillness,Tul's Stillness,LineageSupportGems,LineageSupportGems,divine,chaos
+eshs-radiance,Esh's Radiance,LineageSupportGems,LineageSupportGems,divine,chaos
+rigwalds-ferocity,Rigwald's Ferocity,LineageSupportGems,LineageSupportGems,divine,chaos
+ixchels-torment,Ixchel's Torment,LineageSupportGems,LineageSupportGems,divine,chaos
+uhtreds-exodus,Uhtred's Exodus,LineageSupportGems,LineageSupportGems,divine,chaos
+ataluis-bloodletting,Atalui's Bloodletting,LineageSupportGems,LineageSupportGems,divine,chaos
+xophs-pyre,Xoph's Pyre,LineageSupportGems,LineageSupportGems,divine,chaos
+arbiters-ignition,Arbiter's Ignition,LineageSupportGems,LineageSupportGems,divine,chaos
+atziris-impatience,Atziri's Impatience,LineageSupportGems,LineageSupportGems,divine,chaos
+diallas-desire,Dialla's Desire,LineageSupportGems,LineageSupportGems,divine,chaos
+khatals-rejuvenation,Khatal's Rejuvenation,LineageSupportGems,LineageSupportGems,divine,chaos
+dominus-grasp,Dominus' Grasp,LineageSupportGems,LineageSupportGems,divine,chaos
+amanamus-tithe,Amanamu's Tithe,LineageSupportGems,LineageSupportGems,divine,chaos
+hayoxis-fulmination,Hayoxi's Fulmination,LineageSupportGems,LineageSupportGems,divine,chaos
+zarokhs-revolt,Zarokh's Revolt,LineageSupportGems,LineageSupportGems,divine,chaos
+zerphis-infamy,Zerphi's Infamy,LineageSupportGems,LineageSupportGems,divine,chaos
+tecrods-revenge,Tecrod's Revenge,LineageSupportGems,LineageSupportGems,divine,chaos
+arjuns-medal,Arjun's Medal,LineageSupportGems,LineageSupportGems,divine,chaos
+siones-temper,Sione's Temper,LineageSupportGems,LineageSupportGems,divine,chaos
+atziris-allure,Atziri's Allure,LineageSupportGems,LineageSupportGems,divine,chaos
+doedres-undoing,Doedre's Undoing,LineageSupportGems,LineageSupportGems,divine,chaos
+brutus-brain,Brutus' Brain,LineageSupportGems,LineageSupportGems,divine,chaos
+rathas-assault,Ratha's Assault,LineageSupportGems,LineageSupportGems,divine,chaos
+kulemaks-dominion,Kulemak's Dominion,LineageSupportGems,LineageSupportGems,divine,chaos
+ailiths-chimes,Ailith's Chimes,LineageSupportGems,LineageSupportGems,divine,chaos
+zarokhs-refrain,Zarokh's Refrain,LineageSupportGems,LineageSupportGems,divine,chaos
+kurgals-leash,Kurgal's Leash,LineageSupportGems,LineageSupportGems,divine,chaos
+ahns-citadel,Ahn's Citadel,LineageSupportGems,LineageSupportGems,divine,chaos
+kalisas-crescendo,Kalisa's Crescendo,LineageSupportGems,LineageSupportGems,divine,chaos
+kaoms-madness,Kaom's Madness,LineageSupportGems,LineageSupportGems,divine,chaos
+xibaquas-rending,Xibaqua's Rending,LineageSupportGems,LineageSupportGems,divine,chaos
+oisins-oath,Oisín's Oath,LineageSupportGems,LineageSupportGems,divine,chaos
+arakaalis-lust,Arakaali's Lust,LineageSupportGems,LineageSupportGems,divine,chaos
+uruks-smelting,Uruk's Smelting,LineageSupportGems,LineageSupportGems,divine,chaos
+einhars-beastrite,Einhar's Beastrite,LineageSupportGems,LineageSupportGems,divine,chaos
+bhatairs-vengeance,Bhatair's Vengeance,LineageSupportGems,LineageSupportGems,divine,chaos
+morganas-tempest,Morgana's Tempest,LineageSupportGems,LineageSupportGems,divine,chaos
+tasalios-rhythm,Tasalio's Rhythm,LineageSupportGems,LineageSupportGems,divine,chaos
+vilentas-propulsion,Vilenta's Propulsion,LineageSupportGems,LineageSupportGems,divine,chaos
+cirels-cultivation,Cirel's Cultivation,LineageSupportGems,LineageSupportGems,divine,chaos
+paquates-pact,Paquate's Pact,LineageSupportGems,LineageSupportGems,divine,chaos
+tawhoas-tending,Tawhoa's Tending,LineageSupportGems,LineageSupportGems,divine,chaos
+varashtas-blessing,Varashta's Blessing,LineageSupportGems,LineageSupportGems,divine,chaos
+romiras-requital,Romira's Requital,LineageSupportGems,LineageSupportGems,divine,chaos
+guatelitzis-ablation,Guatelitzi's Ablation,LineageSupportGems,LineageSupportGems,divine,chaos
+daressos-passion,Daresso's Passion,LineageSupportGems,LineageSupportGems,divine,chaos
+tacatis-ire,Tacati's Ire,LineageSupportGems,LineageSupportGems,divine,chaos
+perfect-essence-of-seeking,Perfect Essence of Seeking,Essences,Essences,divine,chaos
+perfect-essence-of-insulation,Perfect Essence of Insulation,Essences,Essences,divine,chaos
+perfect-essence-of-the-body,Perfect Essence of the Body,Essences,Essences,divine,chaos
+greater-essence-of-alacrity,Greater Essence of Alacrity,Essences,Essences,divine,chaos
+perfect-essence-of-grounding,Perfect Essence of Grounding,Essences,Essences,divine,chaos
+perfect-essence-of-thawing,Perfect Essence of Thawing,Essences,Essences,divine,chaos
+greater-essence-of-grounding,Greater Essence of Grounding,Essences,Essences,divine,chaos
+essence-of-the-mind,Essence of the Mind,Essences,Essences,divine,chaos
+perfect-essence-of-ruin,Perfect Essence of Ruin,Essences,Essences,divine,chaos
+lesser-essence-of-ruin,Lesser Essence of Ruin,Essences,Essences,divine,chaos
+lesser-essence-of-command,Lesser Essence of Command,Essences,Essences,divine,chaos
+essence-of-electricity,Essence of Electricity,Essences,Essences,divine,chaos
+essence-of-flames,Essence of Flames,Essences,Essences,divine,chaos
+greater-essence-of-abrasion,Greater Essence of Abrasion,Essences,Essences,divine,chaos
+greater-essence-of-haste,Greater Essence of Haste,Essences,Essences,divine,chaos
+lesser-essence-of-the-body,Lesser Essence of the Body,Essences,Essences,divine,chaos
+lesser-essence-of-sorcery,Lesser Essence of Sorcery,Essences,Essences,divine,chaos
+greater-essence-of-enhancement,Greater Essence of Enhancement,Essences,Essences,divine,chaos
+greater-essence-of-command,Greater Essence of Command,Essences,Essences,divine,chaos
+greater-essence-of-sorcery,Greater Essence of Sorcery,Essences,Essences,divine,chaos
+essence-of-battle,Essence of Battle,Essences,Essences,divine,chaos
+essence-of-ice,Essence of Ice,Essences,Essences,divine,chaos
+essence-of-the-infinite,Essence of the Infinite,Essences,Essences,divine,chaos
+lesser-essence-of-flames,Lesser Essence of Flames,Essences,Essences,divine,chaos
+lesser-essence-of-ice,Lesser Essence of Ice,Essences,Essences,divine,chaos
+lesser-essence-of-seeking,Lesser Essence of Seeking,Essences,Essences,divine,chaos
+lesser-essence-of-the-infinite,Lesser Essence of the Infinite,Essences,Essences,divine,chaos
+greater-essence-of-battle,Greater Essence of Battle,Essences,Essences,divine,chaos
+greater-essence-of-the-infinite,Greater Essence of the Infinite,Essences,Essences,divine,chaos
+greater-essence-of-the-body,Greater Essence of the Body,Essences,Essences,divine,chaos
+greater-essence-of-electricity,Greater Essence of Electricity,Essences,Essences,divine,chaos
+lesser-essence-of-thawing,Lesser Essence of Thawing,Essences,Essences,divine,chaos
+greater-essence-of-ice,Greater Essence of Ice,Essences,Essences,divine,chaos
+greater-essence-of-the-mind,Greater Essence of the Mind,Essences,Essences,divine,chaos
+greater-essence-of-flames,Greater Essence of Flames,Essences,Essences,divine,chaos
+essence-of-horror,Essence of Horror,Essences,Essences,divine,chaos
+essence-of-command,Essence of Command,Essences,Essences,divine,chaos
+essence-of-hysteria,Essence of Hysteria,Essences,Essences,divine,chaos
+greater-essence-of-opulence,Greater Essence of Opulence,Essences,Essences,divine,chaos
+perfect-essence-of-battle,Perfect Essence of Battle,Essences,Essences,divine,chaos
+perfect-essence-of-haste,Perfect Essence of Haste,Essences,Essences,divine,chaos
+perfect-essence-of-alacrity,Perfect Essence of Alacrity,Essences,Essences,divine,chaos
+essence-of-the-abyss,Essence of the Abyss,Essences,Essences,divine,chaos
+essence-of-delirium,Essence of Delirium,Essences,Essences,divine,chaos
+essence-of-opulence,Essence of Opulence,Essences,Essences,divine,chaos
+lesser-essence-of-opulence,Lesser Essence of Opulence,Essences,Essences,divine,chaos
+essence-of-abrasion,Essence of Abrasion,Essences,Essences,divine,chaos
+perfect-essence-of-sorcery,Perfect Essence of Sorcery,Essences,Essences,divine,chaos
+perfect-essence-of-the-infinite,Perfect Essence of the Infinite,Essences,Essences,divine,chaos
+perfect-essence-of-opulence,Perfect Essence of Opulence,Essences,Essences,divine,chaos
+perfect-essence-of-the-mind,Perfect Essence of the Mind,Essences,Essences,divine,chaos
+lesser-essence-of-enhancement,Lesser Essence of Enhancement,Essences,Essences,divine,chaos
+essence-of-alacrity,Essence of Alacrity,Essences,Essences,divine,chaos
+essence-of-insanity,Essence of Insanity,Essences,Essences,divine,chaos
+essence-of-sorcery,Essence of Sorcery,Essences,Essences,divine,chaos
+essence-of-enhancement,Essence of Enhancement,Essences,Essences,divine,chaos
+lesser-essence-of-abrasion,Lesser Essence of Abrasion,Essences,Essences,divine,chaos
+essence-of-seeking,Essence of Seeking,Essences,Essences,divine,chaos
+perfect-essence-of-enhancement,Perfect Essence of Enhancement,Essences,Essences,divine,chaos
+essence-of-thawing,Essence of Thawing,Essences,Essences,divine,chaos
+greater-essence-of-seeking,Greater Essence of Seeking,Essences,Essences,divine,chaos
+perfect-essence-of-abrasion,Perfect Essence of Abrasion,Essences,Essences,divine,chaos
+essence-of-insulation,Essence of Insulation,Essences,Essences,divine,chaos
+lesser-essence-of-alacrity,Lesser Essence of Alacrity,Essences,Essences,divine,chaos
+perfect-essence-of-ice,Perfect Essence of Ice,Essences,Essences,divine,chaos
+essence-of-grounding,Essence of Grounding,Essences,Essences,divine,chaos
+essence-of-haste,Essence of Haste,Essences,Essences,divine,chaos
+lesser-essence-of-grounding,Lesser Essence of Grounding,Essences,Essences,divine,chaos
+essence-of-ruin,Essence of Ruin,Essences,Essences,divine,chaos
+lesser-essence-of-haste,Lesser Essence of Haste,Essences,Essences,divine,chaos
+perfect-essence-of-electricity,Perfect Essence of Electricity,Essences,Essences,divine,chaos
+greater-essence-of-ruin,Greater Essence of Ruin,Essences,Essences,divine,chaos
+perfect-essence-of-flames,Perfect Essence of Flames,Essences,Essences,divine,chaos
+perfect-essence-of-command,Perfect Essence of Command,Essences,Essences,divine,chaos
+lesser-essence-of-the-mind,Lesser Essence of the Mind,Essences,Essences,divine,chaos
+essence-of-the-body,Essence of the Body,Essences,Essences,divine,chaos
+greater-essence-of-insulation,Greater Essence of Insulation,Essences,Essences,divine,chaos
+greater-essence-of-thawing,Greater Essence of Thawing,Essences,Essences,divine,chaos
+guatelitzis-thesis,Guatelitzi's Thesis,SoulCores,Incursion,divine,chaos
+jiquanis-thesis,Jiquani's Thesis,SoulCores,Incursion,divine,chaos
+soul-core-of-jiquani,Soul Core of Jiquani,SoulCores,Ultimatum,divine,chaos
+soul-core-of-zalatl,Soul Core of Zalatl,SoulCores,Ultimatum,divine,chaos
+quipolatls-thesis,Quipolatl's Thesis,SoulCores,Incursion,divine,chaos
+soul-core-of-azcapa,Soul Core of Azcapa,SoulCores,Ultimatum,divine,chaos
+tzamotos-soul-core-of-ferocity,Tzamoto's Soul Core of Ferocity,SoulCores,Ultimatum,divine,chaos
+soul-core-of-quipolatl,Soul Core of Quipolatl,SoulCores,Ultimatum,divine,chaos
+quipolatls-soul-core-of-flow,Quipolatl's Soul Core of Flow,SoulCores,Ultimatum,divine,chaos
+soul-core-of-zantipi,Soul Core of Zantipi,SoulCores,Ultimatum,divine,chaos
+soul-core-of-citaqualotl,Soul Core of Citaqualotl,SoulCores,Ultimatum,divine,chaos
+xopecs-soul-core-of-power,Xopec's Soul Core of Power,SoulCores,Ultimatum,divine,chaos
+citaqualotls-thesis,Citaqualotl's Thesis,SoulCores,Incursion,divine,chaos
+soul-core-of-tacati,Soul Core of Tacati,SoulCores,Ultimatum,divine,chaos
+estazuntis-soul-core-of-convalescence,Estazunti's Soul Core of Convalescence,SoulCores,Ultimatum,divine,chaos
+atmohuas-soul-core-of-retreat,Atmohua's Soul Core of Retreat,SoulCores,Ultimatum,divine,chaos
+guatelitzis-soul-core-of-endurance,Guatelitzi's Soul Core of Endurance,SoulCores,Ultimatum,divine,chaos
+soul-core-of-ticaba,Soul Core of Ticaba,SoulCores,Ultimatum,divine,chaos
+soul-core-of-cholotl,Soul Core of Cholotl,SoulCores,Ultimatum,divine,chaos
+topotantes-soul-core-of-dampening,Topotante's Soul Core of Dampening,SoulCores,Ultimatum,divine,chaos
+soul-core-of-atmohua,Soul Core of Atmohua,SoulCores,Ultimatum,divine,chaos
+hayoxis-soul-core-of-heatproofing,Hayoxi's Soul Core of Heatproofing,SoulCores,Ultimatum,divine,chaos
+soul-core-of-puhuarte,Soul Core of Puhuarte,SoulCores,Ultimatum,divine,chaos
+citaqualotls-soul-core-of-foulness,Citaqualotl's Soul Core of Foulness,SoulCores,Ultimatum,divine,chaos
+opilotis-soul-core-of-assault,Opiloti's Soul Core of Assault,SoulCores,Ultimatum,divine,chaos
+xipocados-soul-core-of-dominion,Xipocado's Soul Core of Dominion,SoulCores,Ultimatum,divine,chaos
+soul-core-of-topotante,Soul Core of Topotante,SoulCores,Ultimatum,divine,chaos
+uromotis-soul-core-of-attenuation,Uromoti's Soul Core of Attenuation,SoulCores,Ultimatum,divine,chaos
+soul-core-of-tzamoto,Soul Core of Tzamoto,SoulCores,Ultimatum,divine,chaos
+tacatis-soul-core-of-affliction,Tacati's Soul Core of Affliction,SoulCores,Ultimatum,divine,chaos
+soul-core-of-opiloti,Soul Core of Opiloti,SoulCores,Ultimatum,divine,chaos
+soul-core-of-xopec,Soul Core of Xopec,SoulCores,Ultimatum,divine,chaos
+zalatls-soul-core-of-insulation,Zalatl's Soul Core of Insulation,SoulCores,Ultimatum,divine,chaos
+cholotls-soul-core-of-war,Cholotl's Soul Core of War,SoulCores,Ultimatum,divine,chaos
+idol-of-eeshta,Idol of Eeshta,Idols,Idol,divine,chaos
+rabbit-idol,Rabbit Idol,Idols,Idol,divine,chaos
+idol-of-sirrius,Idol of Sirrius,Idols,Idol,divine,chaos
+fox-idol,Fox Idol,Idols,Idol,divine,chaos
+idol-of-ralakesh,Idol of Ralakesh,Idols,Idol,divine,chaos
+idol-of-egrin,Idol of Egrin,Idols,Idol,divine,chaos
+idol-of-thruldana,Idol of Thruldana,Idols,Idol,divine,chaos
+snake-idol,Snake Idol,Idols,Idol,divine,chaos
+primate-idol,Primate Idol,Idols,Idol,divine,chaos
+idol-of-grold,Idol of Grold,Idols,Idol,divine,chaos
+bear-idol,Bear Idol,Idols,Idol,divine,chaos
+stag-idol,Stag Idol,Idols,Idol,divine,chaos
+idol-of-maxarius,Idol of Maxarius,Idols,Idol,divine,chaos
+owl-idol,Owl Idol,Idols,Idol,divine,chaos
+boar-idol,Boar Idol,Idols,Idol,divine,chaos
+ox-idol,Ox Idol,Idols,Idol,divine,chaos
+cat-idol,Cat Idol,Idols,Idol,divine,chaos
+wolf-idol,Wolf Idol,Idols,Idol,divine,chaos
+hedgewitch-assandras-rune-of-wisdom,Hedgewitch Assandra's Rune of Wisdom,Runes,Runes,divine,chaos
+greater-rune-of-alacrity,Greater Rune of Alacrity,Runes,Runes,divine,chaos
+greater-rune-of-tithing,Greater Rune of Tithing,Runes,Runes,divine,chaos
+countess-seskes-rune-of-archery,Countess Seske's Rune of Archery,Runes,Runes,divine,chaos
+inspiration-rune,Inspiration Rune,Runes,Runes,divine,chaos
+iron-rune,Iron Rune,Runes,Runes,divine,chaos
+storm-rune,Storm Rune,Runes,Runes,divine,chaos
+lesser-iron-rune,Lesser Iron Rune,Runes,Runes,divine,chaos
+farruls-rune-of-the-chase,Farrul's Rune of the Chase,Runes,Runes,divine,chaos
+lesser-robust-rune,Lesser Robust Rune,Runes,Runes,divine,chaos
+saqawals-rune-of-the-sky,Saqawal's Rune of the Sky,Runes,Runes,divine,chaos
+adept-rune,Adept Rune,Runes,Runes,divine,chaos
+lesser-adept-rune,Lesser Adept Rune,Runes,Runes,divine,chaos
+glacial-rune,Glacial Rune,Runes,Runes,divine,chaos
+lesser-storm-rune,Lesser Storm Rune,Runes,Runes,divine,chaos
+robust-rune,Robust Rune,Runes,Runes,divine,chaos
+resolve-rune,Resolve Rune,Runes,Runes,divine,chaos
+lesser-body-rune,Lesser Body Rune,Runes,Runes,divine,chaos
+the-greatwolfs-rune-of-willpower,The Greatwolf's Rune of Willpower,Runes,Runes,divine,chaos
+lesser-resolve-rune,Lesser Resolve Rune,Runes,Runes,divine,chaos
+lesser-inspiration-rune,Lesser Inspiration Rune,Runes,Runes,divine,chaos
+greater-rune-of-leadership,Greater Rune of Leadership,Runes,Runes,divine,chaos
+saqawals-rune-of-memory,Saqawal's Rune of Memory,Runes,Runes,divine,chaos
+fenumus-rune-of-agony,Fenumus' Rune of Agony,Runes,Runes,divine,chaos
+thane-girts-rune-of-wildness,Thane Girt's Rune of Wildness,Runes,Runes,divine,chaos
+body-rune,Body Rune,Runes,Runes,divine,chaos
+craiceanns-rune-of-warding,Craiceann's Rune of Warding,Runes,Runes,divine,chaos
+vision-rune,Vision Rune,Runes,Runes,divine,chaos
+thane-grannells-rune-of-mastery,Thane Grannell's Rune of Mastery,Runes,Runes,divine,chaos
+courtesan-mannans-rune-of-cruelty,Courtesan Mannan's Rune of Cruelty,Runes,Runes,divine,chaos
+fenumus-rune-of-spinning,Fenumus' Rune of Spinning,Runes,Runes,divine,chaos
+lesser-glacial-rune,Lesser Glacial Rune,Runes,Runes,divine,chaos
+thane-lelds-rune-of-spring,Thane Leld's Rune of Spring,Runes,Runes,divine,chaos
+desert-rune,Desert Rune,Runes,Runes,divine,chaos
+farruls-rune-of-the-hunt,Farrul's Rune of the Hunt,Runes,Runes,divine,chaos
+the-greatwolfs-rune-of-claws,The Greatwolf's Rune of Claws,Runes,Runes,divine,chaos
+lesser-desert-rune,Lesser Desert Rune,Runes,Runes,divine,chaos
+lady-hestras-rune-of-winter,Lady Hestra's Rune of Winter,Runes,Runes,divine,chaos
+thane-myrks-rune-of-summer,Thane Myrk's Rune of Summer,Runes,Runes,divine,chaos
+greater-iron-rune,Greater Iron Rune,Runes,Runes,divine,chaos
+omen-of-sinistral-annulment,Omen of Sinistral Annulment,Ritual,Ritual,divine,chaos
+omen-of-whittling,Omen of Whittling,Ritual,Ritual,divine,chaos
+omen-of-dextral-annulment,Omen of Dextral Annulment,Ritual,Ritual,divine,chaos
+omen-of-light,Omen of Light,Ritual,Ritual,divine,chaos
+omen-of-dextral-erasure,Omen of Dextral Erasure,Ritual,Ritual,divine,chaos
+omen-of-chance,Omen of Chance,Ritual,Ritual,divine,chaos
+omen-of-sanctification,Omen of Sanctification,Ritual,Ritual,divine,chaos
+omen-of-the-blessed,Omen of the Blessed,Ritual,Ritual,divine,chaos
+omen-of-sinistral-crystallisation,Omen of Sinistral Crystallisation,Ritual,Ritual,divine,chaos
+omen-of-dextral-crystallisation,Omen of Dextral Crystallisation,Ritual,Ritual,divine,chaos
+omen-of-abyssal-echoes,Omen of Abyssal Echoes,Ritual,Ritual,divine,chaos
+omen-of-corruption,Omen of Corruption,Ritual,Ritual,divine,chaos
+omen-of-sinistral-exaltation,Omen of Sinistral Exaltation,Ritual,Ritual,divine,chaos
+omen-of-recombination,Omen of Recombination,Ritual,Ritual,divine,chaos
+omen-of-the-hunt,Omen of the Hunt,Ritual,Ritual,divine,chaos
+omen-of-dextral-exaltation,Omen of Dextral Exaltation,Ritual,Ritual,divine,chaos
+omen-of-catalysing-exaltation,Omen of Catalysing Exaltation,Ritual,Ritual,divine,chaos
+omen-of-chaotic-monsters,Omen of Chaotic Monsters,Ritual,Ritual,divine,chaos
+omen-of-greater-exaltation,Omen of Greater Exaltation,Ritual,Ritual,divine,chaos
+omen-of-amelioration,Omen of Amelioration,Ritual,Ritual,divine,chaos
+omen-of-chaotic-rarity,Omen of Chaotic Rarity,Ritual,Ritual,divine,chaos
+omen-of-chaotic-quantity,Omen of Chaotic Quantity,Ritual,Ritual,divine,chaos
+omen-of-reinforcements,Omen of Reinforcements,Ritual,Ritual,divine,chaos
+omen-of-answered-prayers,Omen of Answered Prayers,Ritual,Ritual,divine,chaos
+omen-of-bartering,Omen of Bartering,Ritual,Ritual,divine,chaos
+omen-of-secret-compartments,Omen of Secret Compartments,Ritual,Ritual,divine,chaos
+omen-of-the-blackblooded,Omen of the Blackblooded,Ritual,Ritual,divine,chaos
+omen-of-resurgence,Omen of Resurgence,Ritual,Ritual,divine,chaos
+omen-of-the-ancients,Omen of the Ancients,Ritual,Ritual,divine,chaos
+omen-of-refreshment,Omen of Refreshment,Ritual,Ritual,divine,chaos
+petition-splinter,Petition Splinter,Ritual,Ritual,divine,chaos
+omen-of-sinistral-necromancy,Omen of Sinistral Necromancy,Ritual,Ritual,divine,chaos
+omen-of-dextral-necromancy,Omen of Dextral Necromancy,Ritual,Ritual,divine,chaos
+omen-of-the-sovereign,Omen of the Sovereign,Ritual,Ritual,divine,chaos
+omen-of-putrefaction,Omen of Putrefaction,Ritual,Ritual,divine,chaos
+omen-of-gambling,Omen of Gambling,Ritual,Ritual,divine,chaos
+omen-of-the-liege,Omen of the Liege,Ritual,Ritual,divine,chaos
+omen-of-sinistral-erasure,Omen of Sinistral Erasure,Ritual,Ritual,divine,chaos
+exotic-coinage,Exotic Coinage,Expedition,Expedition,divine,chaos
+black-scythe-artifact,Black Scythe Artifact,Expedition,Expedition,divine,chaos
+sun-artifact,Sun Artifact,Expedition,Expedition,divine,chaos
+broken-circle-artifact,Broken Circle Artifact,Expedition,Expedition,divine,chaos
+order-artifact,Order Artifact,Expedition,Expedition,divine,chaos
+concentrated-liquid-isolation,Concentrated Liquid Isolation,Delirium,Delirium,divine,chaos
+concentrated-liquid-suffering,Concentrated Liquid Suffering,Delirium,Delirium,divine,chaos
+concentrated-liquid-fear,Concentrated Liquid Fear,Delirium,Delirium,divine,chaos
+liquid-despair,Liquid Despair,Delirium,Delirium,divine,chaos
+liquid-disgust,Liquid Disgust,Delirium,Delirium,divine,chaos
+liquid-envy,Liquid Envy,Delirium,Delirium,divine,chaos
+liquid-paranoia,Liquid Paranoia,Delirium,Delirium,divine,chaos
+diluted-liquid-greed,Diluted Liquid Greed,Delirium,Delirium,divine,chaos
+diluted-liquid-guilt,Diluted Liquid Guilt,Delirium,Delirium,divine,chaos
+diluted-liquid-ire,Diluted Liquid Ire,Delirium,Delirium,divine,chaos
+neural-catalyst,Neural Catalyst,Breach,Breach,divine,chaos
+sibilant-catalyst,Sibilant Catalyst,Breach,Breach,divine,chaos
+skittering-catalyst,Skittering Catalyst,Breach,Breach,divine,chaos
+reaver-catalyst,Reaver Catalyst,Breach,Breach,divine,chaos
+eshs-catalyst,Esh's Catalyst,Breach,Breach,divine,chaos
+tuls-catalyst,Tul's Catalyst,Breach,Breach,divine,chaos
+xophs-catalyst,Xoph's Catalyst,Breach,Breach,divine,chaos
+breach-splinter,Breach Splinter,Breach,Breach,divine,chaos
+flesh-catalyst,Flesh Catalyst,Breach,Breach,divine,chaos
+carapace-catalyst,Carapace Catalyst,Breach,Breach,divine,chaos
+chayulas-catalyst,Chayula's Catalyst,Breach,Breach,divine,chaos
+adaptive-catalyst,Adaptive Catalyst,Breach,Breach,divine,chaos
+uul-netols-catalyst,Uul-Netol's Catalyst,Breach,Breach,divine,chaos
