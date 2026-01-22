@@ -1,47 +1,55 @@
-# Introduction / Brief client — Projet Tableau de Bord Power BI
+# PoE2 Trade Analyzer
+Outil d’analyse et de comparaison des devises sur Path of Exile 2.
+Il permet de détecter automatiquement des opportunités d’arbitrage entre Chaos / Divine / Exalted à partir des données de trade.
 
-Bonjour,
-Dans le cadre de notre activité d’analyse économique liée au jeu Path of Exile 2, nous souhaitons mettre en place un tableau de bord interactif Power BI qui reproduit et enrichit les informations visibles sur la page poe.ninja – Vaal Currency (https://poe.ninja/poe2/economy/vaal/currency
-).
+## Fonctionnalités
+### Overview
+Vue globale de l’état du marché :
+- Affichage de toutes les devises principales
+- Taux de change croisés (Chaos ⇄ Divine ⇄ Exalted)
+- Volumes de trade
+- Données de liquidité
+- Accès direct au détail d’une devise
 
-L’objectif de ce dashboard est de permettre à nos analystes et décideurs de suivre en temps réel les indicateurs clés de performance (KPI) de l’économie des devises du serveur Vaal, d’identifier des tendances de valeur, et de générer des insights exploitables pour optimiser nos stratégies de trading interne.
+Objectif :
+- Comprendre rapidement quelles devises sont liquides, chères ou sous-valorisées.
 
-## KPI & Besoins Fonctionnels
-Voici les KPI et éléments que nous souhaitons inclure dans le tableau de bord :
+### Opportunities Scanner
+Scanner automatique d’opportunités d’arbitrage.
+Pour chaque devise, l’outil :
+Compare les taux de change entre :
+- Chaos ⇄ Divine
+- Chaos ⇄ Exalted
+- Divine ⇄ Exalted
 
-1. Valeurs des devises
-- Prix actuel de chaque monnaie (en Chaos / équivalent)
-- Évolution du prix sur différentes périodes (24h, 7j, 30j)
-- Comparaison historique des valeurs
+Applique :
+- Slippage d’achat
+- Slippage de vente
+- Filtres de liquidité
+- Filtres de profit
 
-2. Variation & Trends
-- Variation % sur 24h, 7 jours, 30 jours
-- Tendances (à la hausse, stable, à la baisse)
-- Graphiques temporels des valeurs
+Calcule :
+- Profit %
+- Profit par unité
+- Volume exploitable
+- Score de priorité
 
-3. Volume & Liquidité
-- Volume total échangé par devise
-- Top devises par volume
-- Distribution du volume par période
+Résultat :
+- Une liste triée d’opportunités réellement exploitables.
 
-4. Classement & Segmentation
-- Classement des devises par valeur, variation ou volume
-- Filtres dynamiques (par type de devise, intervalle de date, etc.)
+#### Logique de scoring
+Chaque opportunité reçoit un score basé sur :
+Score = Profit % × √(liquidité) × SpreadFactor + Bonus(profit valeur)
+- Plus le profit % est élevé → score ↑
+- Plus la liquidité est forte → score ↑
+- Plus le spread est faible → score ↑
+- Plus le profit réel par unité est élevé → score ↑
 
-5. Visualisations enrichies
-- Graphiques interactifs (lignes, barres, heatmaps)
-- Tableaux triables et filtrables
-- Widgets de KPI avec codes couleur pour faciliter l’interprétation
+Cela évite de favoriser :
+- des trades très profitables mais impossibles à exécuter
+- ou des trades liquides mais non rentables
 
-6. Interactivité & Exploration
-- Possibilité de sélectionner une devise pour afficher ses détails
-- Sélection de périodes personnalisées
-- Mise à jour automatique à partir de la source de données
-
-## Objectifs attendus
-Le tableau de bord devra :
-
-- Fournir une vue d’ensemble synthétique et visuelle de l’économie des devises POE2 (serveur Vaal).
-- Permettre de surveiller les fluctuations de marché rapidement.
-- Aider à la prise de décision basée sur des données actualisées.
-- Être facilement exploitable par des utilisateurs non techniques.
+## Stack technique
+- Python
+- Streamlit
+- JSON (données de marché)
